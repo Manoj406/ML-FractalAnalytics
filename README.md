@@ -1,4 +1,5 @@
 **Predicting Coupon Redemption**
+
 XYZ Credit Card company regularly helps its merchants understand their data better and make key business decisions accurately by 
 providing machine learning and analytics consulting. ABC is an established Brick & Mortar retailer that frequently conducts 
 marketing campaigns for its diverse product range. As a merchant of XYZ, they have sought XYZ to assist them in their discount marketing 
