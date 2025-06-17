@@ -12,3 +12,4 @@ the loyalty of existing customers. Measuring a consumer’s propensity towards c
 are crucial parameters in assessing the effectiveness of a marketing campaign.
 
  
+![image](https://github.com/user-attachments/assets/fb0d2591-cfdb-4d14-9af1-4a5fef43a024)
